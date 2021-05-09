@@ -1,0 +1,40 @@
+.wrapper-header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding-top: 22px;
+    margin-bottom: 24px;
+}
+
+.wrapper-header div {
+    width: 50%;
+}
+
+.wrapper-logo img:first-child {
+    margin-right: 16px;
+}
+.wrapper-menu ul {
+    display: flex;
+    
+}
+
+.wrapper-menu ul li {
+    list-style: none;
+    padding-right: 20px;
+    font-size: 20px; 
+    display: block;
+    
+    
+}
+
+.wrapper-menu ul li a {
+    text-decoration: none;
+    color: #6c6c6c;
+    padding-bottom: 33px;
+    
+}
+
+.wrapper-menu li a:hover {
+    border-bottom: 2px solid #5094f2;
+
+}

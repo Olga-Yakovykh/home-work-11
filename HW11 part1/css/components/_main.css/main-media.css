@@ -1,0 +1,22 @@
+
+@media (max-width: 1024px) {
+    .articles-wrapper {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .articles-wrapper {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 320px) {
+    
+    .articles-wrapper {
+        width: 100%;
+        text-align: center;
+    }
+}

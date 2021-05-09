@@ -1,0 +1,20 @@
+
+@media (max-width: 767px) {
+    .wrapper-footer {
+        flex-direction: column; 
+    }
+    .sub-menu ul {
+        flex-direction: column;
+    }
+     
+   
+    .wrapper-footer ul li {
+        margin-top: 20px;
+    }
+}
+@media (max-width: 320px){
+    .sub-menu ul {
+        display: flex;
+        flex-direction: column;
+    }
+}

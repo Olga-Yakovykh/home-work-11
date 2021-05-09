@@ -1,0 +1,23 @@
+header {
+    background: url(../../../img/photo_2021-04-30_14-56-20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 308px;  
+    height: 100%;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    padding: 30px 0;
+   
+}
+
+.wrapper-text h1 {
+    font-size: 48px;
+    color: #e5e5e5;
+
+}
+
+
+
+
+

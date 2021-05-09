@@ -1,0 +1,87 @@
+@media (max-width: 1024px) {
+    .wrapper-banner {
+        padding: 0;
+    }
+
+    .wrapper-basket {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .wrapper-basket div {
+        width: 50%;
+    }
+
+
+}
+@media (max-width: 992px) {
+     .wrapper-banner .phone img{
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 767px) {
+
+.wrapper-banner {
+    padding-left: 30px;
+}
+
+.wrapper-main {
+    width: 100%;
+    padding: 0;}
+
+.wrapper-banner .phone {
+    display: none;
+}
+.wrapper-banner div {
+    width: 100%;
+}
+.some-text {
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+.some-text a {
+    padding: 5px 9px;
+    margin: 0;
+}
+.some-text h1 {
+    font-size: 36px;
+    padding-bottom: 10px;
+}
+
+.services-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.services-items div {
+    padding: 20px 30px;
+}
+
+.services-items img {
+    width: 150px;
+    height: 150px;
+}
+.wrapper-basket {
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrapper-basket img {
+    max-width: 100%;
+}
+.wrapper-basket-text {
+    padding: 0 30px;
+    width: 100%;
+}
+
+.wrapper-basket-text h3 {
+    text-align: center;
+}
+.wrapper-title {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    font-size: 36px;
+}
+}

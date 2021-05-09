@@ -1,0 +1,16 @@
+footer {
+    padding: 33px 0 44px 0;
+    border-top: 1px solid #909090;
+}
+
+.wrapper-footer-info {
+    display: flex;
+    justify-content: center;
+}
+.wrapper-footer-info span {
+    font-size: 15px;
+    color: #909090;
+}
+.wrapper-footer-info span a {
+    text-decoration: none;
+}

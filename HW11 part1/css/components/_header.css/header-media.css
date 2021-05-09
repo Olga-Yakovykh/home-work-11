@@ -1,0 +1,24 @@
+@media (max-width: 1875px) {
+   
+    .wrapper-text h1 {
+        font-size: 48px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 1024px) {
+ 
+    .wrapper-text h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    
+}
+@media (max-width: 767px) {
+   
+   
+    .wrapper-text h1 {
+        font-size: 36px;
+        text-align: center;
+    }
+}
